@@ -1,28 +1,27 @@
 {
-"post":[
+  "posts": [
     {
-        "id": 1,
-        "title": "First Post",
-        "content": "This is the content of the first post.",
-        "author": "Author One",
-        "date": "2023-10-01",
-        "image": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg"
+      "id": "1",
+      "title": "Butterflies",
+      "content": "Diversity: There are an estimated 15,000 to 20,000 different species of butterflies worldwide. ",
+      "author": "Mcadams",
+      "date": "2023-10-01",
+      "imageUrl": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg"
     },
     {
-        "id": 2,
-        "title": "Second Post",
-        "content": "This is the content of the second post.",
-        "author": "Author Two",
-        "date": "2023-10-02",
-        "image": "https://images.pexels.com/photos/2274725/pexels-photo-2274725.jpeg"
+      "title": "The Ocean",
+      "content": "Covering over 70% of Earth's surface, oceans are vast, mysterious, and teeming with life. They regulate our climate, provide food, and inspire wonder. ",
+      "author": "Mcadams",
+      "imageUrl": "https://images.pexels.com/photos/2274725/pexels-photo-2274725.jpeg",
+      "id": "2"
     },
     {
-        "id": 3,
-        "title": "Third Post",
-        "content": "This is the content of the third post.",
-        "author": "Author Three",
-        "date": "2023-10-03",
-        "image": "https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg"
+      "id": "3",
+      "title": "New York ",
+      "content": "New York City—the bustling metropolis of dreams, culture, and endless energy. From towering skyscrapers to iconic parks, NYC is a world of its own.",
+      "author": "Mcadams",
+      "date": "2023-10-03",
+      "imageUrl": "https://images.pexels.com/photos/2168975/pexels-photo-2168975.jpeg"
     }
-
-]}
+  ]
+}
